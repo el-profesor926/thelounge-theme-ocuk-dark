@@ -1,0 +1,35 @@
+{
+  "name": "thelounge-theme-ocuk-dark",
+  "version": "1.0.0",
+  "description": "A simple theme with dark colours",
+  "main": "package.json",
+  "thelounge": {
+    "name": "OcUK-Dark-Theme",
+    "type": "theme",
+    "css": "theme.css",
+    "themeColor": "#1c5780"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/mrbell1984/thelounge-theme-ocuk-dark/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrbell1984/thelounge-theme-ocuk-dark.git"
+  },
+  "keywords": [
+    "ocuk",
+    "dark",
+    "thelounge",
+    "thelounge-theme",
+    "thelounge-ocuk"
+  ],
+  "bugs": {
+    "url": "https://github.com/mrbell1984/thelounge-theme-ocuk-dark/issues"
+  },
+  "devDependencies": {
+    "stylelint": "^13.1.0",
+    "stylelint-config-standard": "^20.0.0"
+  },
+  "scripts": {
+    "test": "stylelint theme.css"
+  }
+}

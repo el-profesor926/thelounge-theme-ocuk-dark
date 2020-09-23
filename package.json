@@ -1,13 +1,13 @@
 {
   "name": "thelounge-theme-ocuk-dark",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple theme with dark colours",
   "main": "package.json",
   "thelounge": {
     "name": "OcUK-Dark-Theme",
     "type": "theme",
     "css": "theme.css",
-    "themeColor": "#1c5780"
+    "themeColor": "#1e1e1e"
   },
   "license": "MIT",
   "homepage": "https://github.com/mrbell1984/thelounge-theme-ocuk-dark/",

@@ -24,12 +24,12 @@
 }
 
 ::placeholder {
-	color: #F44336;
+	color: #3d99db;
 	opacity: 1; /* fix opacity in Firefox */
 }
 
 ::-webkit-scrollbar-thumb:vertical {
-	background: hsl(192, 100%, 25%);
+	background: hsl(0, 0%, 12%);
 }
 
 ::-webkit-scrollbar-thumb:vertical:hover {

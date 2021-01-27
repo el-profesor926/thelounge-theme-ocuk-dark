@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-	A simple theme with Dark colours
+	An elegant theme with Dark colours
 </h3>
 
 <p align="center">
@@ -36,10 +36,13 @@
 </p>
 
 
-## Installation
-
+## Installation :sparkles:
 Install this theme with:
 
 ```sh
 thelounge install thelounge-theme-ocuk-dark
 ```
+
+## Issues :sparkles:
+If you have an issue, change request or comment about this theme please report it below:<br/>
+<a href="https://github.com/el-profesor926/thelounge-theme-ocuk-blue/issues">/thelounge-theme-ocuk-blue/issues</a>

@@ -45,4 +45,4 @@ thelounge install thelounge-theme-ocuk-dark
 
 ## Issues :sparkles:
 If you have an issue, change request or comment about this theme please report it below:<br/>
-<a href="https://github.com/el-profesor926/thelounge-theme-ocuk-blue/issues">/thelounge-theme-ocuk-blue/issues</a>
+<a href="https://github.com/el-profesor926/thelounge-theme-ocuk-dark/issues">/thelounge-theme-ocuk-dark/issues</a>

@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-	<img src="screenshot.png" alt="Screenshot of the OcUK Dark theme for The Lounge Chat" width="550">
+	<img src="screenshot.png" alt="Screenshot of the OcUK Dark theme for The Lounge Chat">
 </p>
 
 
@@ -43,6 +43,6 @@ Install this theme with:
 thelounge install thelounge-theme-ocuk-dark
 ```
 
-## Issues :sparkles:
+## Issues :sparkles: ![GitHub issues](https://img.shields.io/github/issues/el-profesor926/thelounge-theme-ocuk-dark?style=plastic)
 If you have an issue, change request or comment about this theme please report it below:<br/>
 <a href="https://github.com/el-profesor926/thelounge-theme-ocuk-dark/issues">/thelounge-theme-ocuk-dark/issues</a>

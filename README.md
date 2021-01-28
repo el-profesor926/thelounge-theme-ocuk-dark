@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-	An elegant theme with Dark colours
+	An elegant theme with dark colours
 </h3>
 
 <p align="center">

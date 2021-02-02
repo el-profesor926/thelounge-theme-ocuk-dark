@@ -12,7 +12,8 @@
 		•
 		<a href="https://thelounge.chat/docs">Docs</a>
 		•
-		<a href="https://demo.thelounge.chat/">Demo</a>
+		<a href="https://demo.thelounge.chat/">Demo</a> <br />
+		<a href="https://www.npmjs.com/search?q=thelounge">More Themes</a>
 	</strong>
 </p>
 

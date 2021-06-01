@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-	An theme with dark colours
+	An dark theme for the client
 </h3>
 
 <p align="center">

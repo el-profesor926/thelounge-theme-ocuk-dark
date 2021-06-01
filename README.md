@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-	An elegant theme with dark colours
+	An theme with dark colours
 </h3>
 
 <p align="center">
@@ -40,8 +40,8 @@
 <a href="https://www.buymeacoffee.com/zen262176" target="_blank"><img src="https://lounge-group.co.uk/by-me-a-coffee.png" alt="Buy Me A Coffee"></a>
 </p>
 
-## Installation :sparkles:
-Install this theme with:
+## Installation :sparkles: (https://bit.ly/2SI88KA)
+Install this theme with npm:
 
 ```sh
 thelounge install thelounge-theme-ocuk-dark

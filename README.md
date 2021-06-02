@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-	<img src="screenshot.png" alt="Screenshot of the OcUK Dark theme for The Lounge Chat">
+	<img src="Screenshots/Screenshot1.png" alt="Screenshot of the OcUK Dark theme for The Lounge Chat">
 </p>
 
 <p align="center">

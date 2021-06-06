@@ -45,6 +45,10 @@ html {
 	scrollbar-width: thin;
 }
 
+.logo-inverted {
+  display: none;
+}
+
 .window .logo,
 #loading .logo {
 	display: none;

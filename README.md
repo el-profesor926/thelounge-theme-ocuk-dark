@@ -5,14 +5,16 @@
 <h3 align="center">
 	A simple theme with dark colours
 </h3>
-
 <p align="center">
 	<a href="https://demo.thelounge.chat/"><img
 		alt="#thelounge IRC channel on LiberaChat"
 		src="https://img.shields.io/badge/libera.chat-%23thelounge-415364.svg?colorA=ff9e18"></a>
 	<a href="https://yarn.pm/thelounge"><img
 		alt="npm version"
-		src="https://img.shields.io/npm/v/thelounge.svg?colorA=333a41&maxAge=3600"></a>
+		src="https://img.shields.io/npm/v/thelounge.svg?colorA=333a41"></a>
+	<a href="https://yarn.pm/thelounge-theme-ocuk-dark"><img
+		alt="npm version"
+		src="https://img.shields.io/npm/v/thelounge-theme-ocuk-dark"></a>
 	<a href="https://npm-stat.com/charts.html?package=thelounge-theme-ocuk-dark&from=2016-02-12"><img
 		alt="Total downloads on npm"
 		src="https://img.shields.io/npm/dy/thelounge-theme-ocuk-dark.svg?colorA=333a41&colorB=007dc7&maxAge=3600&label=Downloads"></a>

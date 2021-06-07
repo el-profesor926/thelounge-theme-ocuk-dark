@@ -12,7 +12,7 @@
 	<a href="https://www.npmjs.com/package/thelounge-theme-ocuk-dark"><img
 		alt="npm version"
 		src="https://img.shields.io/npm/v/thelounge-theme-ocuk-dark"></a>
-	<a href="https://npm-stat.com/charts.html?package=thelounge-theme-ocuk-dark&from=2016-02-12"><img
+	<a href="https://npm-stat.com/charts.html?package=thelounge-theme-ocuk-dark"><img
 		alt="Total downloads on npm"
 		src="https://img.shields.io/npm/dy/thelounge-theme-ocuk-dark.svg?colorA=333a41&colorB=007dc7&maxAge=3600&label=Downloads"></a>
 </p>

@@ -1,5 +1,6 @@
 /*!
- * A Dark OcUK theme
+ * A Dark OcUK theme for The Lounge Chat
+ * By el-profesor929
  *
  * License: MIT
  */
@@ -43,6 +44,10 @@
 html {
 	scrollbar-color: hsl(192, 100%, 25%) hsla(192, 100%, 25%, 10%);
 	scrollbar-width: thin;
+}
+
+#form #nick { 
+  display: unset; 
 }
 
 .logo-inverted {
